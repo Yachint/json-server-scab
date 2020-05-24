@@ -3,5 +3,6 @@
   "sellers": [],
   "users": [],
   "orders": [],
-  "misc": []
+  "misc": [],
+  "inventory": []
 }
